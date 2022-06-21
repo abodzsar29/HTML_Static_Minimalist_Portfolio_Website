@@ -1,3 +1,5 @@
+Andrew Bodzsar - 06.2020
+
 Minimalist Portfolio Website Project - NOTE: THE WEBSITE IS ONLY OPTIMISED FOR 1920 * 1080 RESOLUTION
 
 This repository contains all of the source files which I utilised to make my second portfolio website showcasing my web development skills with another hands-on product.
